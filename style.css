@@ -1,0 +1,23 @@
+@media only screen and (max-width: 600px) {
+    div {
+        background-color: #FF8D75;
+        font-size: 1em;
+    }
+}
+
+@media only screen and (min-width: 601px) {
+    div {
+        background-color: #F2FF75;
+        font-size: 1.25em;
+    }
+}    
+
+
+@media only screen and (min-width: 992px) {
+    div {
+        background-color: #A8FF75;
+        font-size: 1.5em;
+    }
+}   
+
+
